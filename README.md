@@ -54,7 +54,7 @@ These results show that the optimization-based controller preserves tracking qua
 - `docs/project_report.pdf` – full project report
 - `assets/demo_video.mp4` – simulation demo
 - `assets/coppelia_scene.ttt` – CoppeliaSim scene
-- `notes/matlab_controller_summary.md` – summary of the MATLAB controller architecture and implementation
+- `code/matlab_final_project.m` – summary of the MATLAB controller architecture and implementation
 
 ## Tools and Technologies
 
